@@ -1,0 +1,2 @@
+# Credit-card-fraud-detection-using-Logistic-regression
+Credit card fraud can refer to the loss money associated with credit card or the loss of sensitive credit card information. Frauds have no constant patterns as they continuously change. Machine learning algorithms which are capable of learning generalized patterns have been used in building fraud detection systems to predict normal or fraudulent transactions.
